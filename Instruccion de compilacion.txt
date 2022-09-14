@@ -1,0 +1,4 @@
+Compilación:	gcc Laberinto2.c presentacionWin.c TADPila.c -o Laberinto2
+Ejecución:	Laberinto2.exe
+
+Nota: El ejecutable ya está generado
