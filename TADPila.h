@@ -1,6 +1,6 @@
 /*
 LIBRERIA: Cabecera de el TAD PILA DINÁMICA
-AUTOR: Edgardo Adrián Franco Martínez (C) Septiembre 2016
+AUTORES: 	Edgardo Adrián Franco Martínez (C) Septiembre 2016
 		Ericka Ruiz López 26 - Marzo - 2021
 VERSIÓN: 1.1
 
