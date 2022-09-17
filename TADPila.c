@@ -1,7 +1,7 @@
 /*
 IMPLEMENTACIONES DE LA LIBRERIA DEL TAD PILA DINÁMICA (TADPilaDin.h)
-AUTOR: Edgardo Adrián Franco Martínez (C) Septiembre 2012
-Modificado por: Ericka Ruiz López 26 - Marzo - 2021
+AUTORES: 	Edgardo Adrián Franco Martínez (C) Septiembre 2012
+		Ericka Ruiz López 26 - Marzo - 2021
 VERSIÓN: 1.4
 
 DESCRIPCIÓN: TAD pila o stack.
